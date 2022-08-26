@@ -1,0 +1,8 @@
+.bg-gradient-header {
+  background: #3385f3;
+  background: -moz-linear-gradient(90deg, #3385f3 0%, #1f68ce 100%);
+  background: -webkit-linear-gradient(90deg, #3385f3 0%, #1f68ce 100%);
+  background: linear-gradient(90deg, #3385f3 0%, #1f68ce 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3385f3",endColorstr="#1f68ce",GradientType=1); }
+
+/*# sourceMappingURL=style.css.map */
